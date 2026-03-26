@@ -14,4 +14,5 @@ Professional Digital Identity & Networking Goal: To establish a verifiable profe
 4: Digital Ethics Goal: To model and teach responsible digital citizenship and financial safety. Professional Communication: Drafted high-standard email templates for academic requests and internship inquiries, focusing on clarity and etiquette. Social Media Hygiene: Developed a "Do's and Don'ts" framework to help peers maintain a professional digital footprint.
 
 5: Case Study and Checklist Cybercrime Case Study: Analyzed UPI  Fraud, emphasizing that a UPI PIN is only for sending money, never receiving. Safety Plan: Implemented an 8-point security checklist including 2FA and official reporting via 1930 or cybercrime.gov.in.
+
 #task-3 google form link -https://docs.google.com/forms/d/e/1FAIpQLSdJ97Rd10d29T_Wsed0hIAYsY5Nl7OOuVocqgSYHNZL3wVHoA/viewform
